@@ -8,3 +8,5 @@
 - [NDN : https://developer.mozilla.org/en-US/]
 
 - [RESPONSIVE : https://responsively.app/]
+- https://htmlcheatsheet.com/
+- 
